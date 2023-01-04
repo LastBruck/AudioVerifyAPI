@@ -34,7 +34,7 @@
 ### Для работы вам понадобится: 
 
 - Установить веб-фреймворк **FastApi** и библиотеку **SoundFile**:  
-> pip install fastapi
+> pip install fastapi  
 > pip install soundfile
   
 - Для запуска нада прописать в консоле:  
